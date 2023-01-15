@@ -1,0 +1,3 @@
+Name: Patricio
+Age: 36
+Favorite Color: Red
