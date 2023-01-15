@@ -1,0 +1,17 @@
+Initialize a repository:
+git init
+
+View changes in the repository:
+git status
+
+Adding single file:
+git add <file-name>
+
+all files:
+git add .
+
+Committing file(s) to staging area:
+git commit -m"<commit-message>"
+
+View changes history:
+git log
